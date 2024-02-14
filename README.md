@@ -26,15 +26,7 @@ EYE_AR_THRESH = 0.3
 EYE_AR_CONSEC_FRAMES = 30
 YAWN_THRESH = 10`	//change this according to the distance from the camera
 ```
-
-## Authors
-
-**Arijit Das** 
-
-
-## Acknowledgments
-
-* https://www.pyimagesearch.com/
+You will need to download the 'shape_predictor_68_face_landmarks.dat' online.
 
 
 
